@@ -11,5 +11,5 @@
 
 ## Tech Stack
 - C, C++, Python
-- Git, Linux, WSL, VS Code, MCU
+- Git, Linux, WSL, VS Code, MCU, gdb
 - ⚡ Fun fact: I studied computer 10month
